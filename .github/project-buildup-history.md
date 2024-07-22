@@ -36,3 +36,7 @@
 
 - Task summary: Noticed something off from this morning — found a duplicate function that slipped in during copy-paste. Removed it.
 - Deliverable: Cleaner than this morning's version.
+## 2024-07-22 - Day 6: Architecture
+
+- Task summary: Noticed something off from this morning — added one more evaluation metric that felt missing from the earlier comparison.
+- Deliverable: One of those satisfying small wins.
