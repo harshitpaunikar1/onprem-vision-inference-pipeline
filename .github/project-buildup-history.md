@@ -32,3 +32,7 @@
 
 - Task summary: Late-night fix: ran the whole thing end to end again after a fresh look. Caught a stale import that broke the flow.
 - Deliverable: Should've caught it earlier but better now than later.
+## 2024-07-22 - Day 6: Architecture
+
+- Task summary: Noticed something off from this morning — found a duplicate function that slipped in during copy-paste. Removed it.
+- Deliverable: Cleaner than this morning's version.
