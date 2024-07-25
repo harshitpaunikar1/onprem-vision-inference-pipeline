@@ -56,3 +56,7 @@
 
 - Task summary: Quick follow-up: resolved a merge conflict that came up when I switched branches to check something else.
 - Deliverable: One of those satisfying small wins.
+## 2024-07-25 - Day 9: Operational rules
+
+- Task summary: Ended up revisiting this in the evening — pushed a config tweak after noticing the wrong default param was being used.
+- Deliverable: Good enough to not be embarrassing.
