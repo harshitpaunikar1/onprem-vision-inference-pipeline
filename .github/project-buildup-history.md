@@ -68,3 +68,7 @@
 
 - Task summary: Got stuck mid-afternoon and had to regroup — added one more evaluation metric that felt missing from the earlier comparison.
 - Deliverable: Solid now, moving on.
+## 2024-07-26 - Day 10: Artifacts
+
+- Task summary: Got stuck mid-afternoon and had to regroup — spent time just reading back through everything to make sure it still made sense end to end.
+- Deliverable: One of those satisfying small wins.
