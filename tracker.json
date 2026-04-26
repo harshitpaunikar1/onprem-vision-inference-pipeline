@@ -1,0 +1,36 @@
+{
+  "project_name": "On-Prem Vision Inference Pipeline",
+  "status": "done",
+  "completion_percent": 100,
+  "confidence_score": 90,
+  "last_agent": "Codex GPT-5 Production Engine",
+  "last_updated": "2026-04-26T10:13:29Z",
+  "files_created": [
+    "index.html",
+    "style.css",
+    "app.js",
+    "tracker.json",
+    "handoff.md",
+    "diagrams.md",
+    "assets/",
+    "assets/architecture-overview.svg",
+    "assets/workflow-overview.svg",
+    "assets/evidence-gap-map.svg"
+  ],
+  "completed_sections": [
+    "Hero Overview",
+    "Clause I. The Manual Review Bottleneck",
+    "Clause II. Image Intake",
+    "Clause III. Prompt-Configured Extraction",
+    "Clause IV. Schema Validation",
+    "Clause V. Post-Processing",
+    "Clause VI. Error Handling",
+    "Clause VII. Control Plane Design",
+    "Operational Close"
+  ],
+  "pending_sections": [],
+  "blockers": [],
+  "next_best_task": "Move to `prompt-reliability-workflow/index.html` next and keep that rewrite visually distinct from this monochrome contract-spine treatment.",
+  "quality_score": 93,
+  "publish_ready": true
+}
