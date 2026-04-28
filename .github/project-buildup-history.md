@@ -34,11 +34,11 @@
 - Deliverable: Should've caught it earlier but better now than later.
 ## 2024-07-22 - Day 6: Architecture
 
-- Task summary: Noticed something off from this morning — found a duplicate function that slipped in during copy-paste. Removed it.
+- Task summary: Noticed something off from this morning - found a duplicate function that slipped in during copy-paste. Removed it.
 - Deliverable: Cleaner than this morning's version.
 ## 2024-07-22 - Day 6: Architecture
 
-- Task summary: Noticed something off from this morning — added one more evaluation metric that felt missing from the earlier comparison.
+- Task summary: Noticed something off from this morning - added one more evaluation metric that felt missing from the earlier comparison.
 - Deliverable: One of those satisfying small wins.
 ## 2024-07-23 - Day 7: UI scaffold
 
@@ -58,7 +58,7 @@
 - Deliverable: One of those satisfying small wins.
 ## 2024-07-25 - Day 9: Operational rules
 
-- Task summary: Ended up revisiting this in the evening — pushed a config tweak after noticing the wrong default param was being used.
+- Task summary: Ended up revisiting this in the evening - pushed a config tweak after noticing the wrong default param was being used.
 - Deliverable: Good enough to not be embarrassing.
 ## 2024-07-26 - Day 10: Artifacts
 
@@ -66,11 +66,11 @@
 - Deliverable: Ended the day with support artifacts in hand, plus a few side notes on what still needed fixing later. It was not super polished, just stable enough that I felt okay moving forward.
 ## 2024-07-26 - Day 10: Artifacts
 
-- Task summary: Got stuck mid-afternoon and had to regroup — added one more evaluation metric that felt missing from the earlier comparison.
+- Task summary: Got stuck mid-afternoon and had to regroup - added one more evaluation metric that felt missing from the earlier comparison.
 - Deliverable: Solid now, moving on.
 ## 2024-07-26 - Day 10: Artifacts
 
-- Task summary: Got stuck mid-afternoon and had to regroup — spent time just reading back through everything to make sure it still made sense end to end.
+- Task summary: Got stuck mid-afternoon and had to regroup - spent time just reading back through everything to make sure it still made sense end to end.
 - Deliverable: One of those satisfying small wins.
 ## 2024-07-29 - Day 11: Documentation check
 
